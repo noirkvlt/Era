@@ -1,0 +1,7 @@
+.qmake.stash
+.vscode/
+build/
+era-qt
+qrc_era.cpp
+src/erad
+era-qt.pro.user
